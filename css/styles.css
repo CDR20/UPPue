@@ -1,0 +1,53 @@
+body{
+    display: grid;
+}
+
+.logo img {
+    width: 1320px;
+    height: 120px;
+}
+
+.img-2 img{
+    display: block;
+    width: 1320px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu {
+    display: block;
+    position: relative;
+    cursor: pointer;
+}
+
+.menu-title {
+    display: block;
+    width: 111px;
+    height: 60px;
+    padding: 15px 0 0;
+    font-size: medium;
+    background: purple;
+    text-align: center;
+    color: #ffffff;
+}
+
+
+.contenedor {
+    background-color: grey;
+    margin-left: 0;
+    width: 240px;
+    height: 380px;
+    float: left;
+}
+
+#uno{
+}
+
+#dos{
+}
+
+#tres {
+}
